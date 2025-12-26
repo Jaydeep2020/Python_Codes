@@ -40,3 +40,30 @@ output:
 
 
 
+# s = Stack()
+
+# while True:
+#     print("\n1. Push")
+#     print("2. Pop")
+#     print("3. Display")
+#     print("4. Exit")
+
+#     choice = input("Enter your choice: ")
+
+#     if choice == "1":
+#         item = input("Enter element to push: ")
+#         s.push(item)
+#         print("Pushed:", item)
+
+#     elif choice == "2":
+#         print("Popped:", s.pop())
+
+#     elif choice == "3":
+#         print("Stack:", s.printStack())
+
+#     elif choice == "4":
+#         print("Exiting...")
+#         break
+
+#     else:
+#         print("Invalid choice, try again")
